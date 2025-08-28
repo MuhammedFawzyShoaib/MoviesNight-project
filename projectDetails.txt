@@ -1,2 +1,2 @@
 Movies-main folder is Backend
-Mean-Stack-Movies-main folder is Frontend
+Mean-Stack-MovieNight-main folder is Frontend
